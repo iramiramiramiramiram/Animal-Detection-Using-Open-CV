@@ -58,8 +58,6 @@ python visualize.py --dataset csv --csv_classes classname2id.csv --csv_val annot
 
 
 
-### Team 
-- Anish Madan
-- Sarthak Bhagat
-- Shagun Uppal
+
+
 
