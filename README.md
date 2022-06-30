@@ -1,1 +1,0 @@
-# Animal-Detection-Using-Open-CV
